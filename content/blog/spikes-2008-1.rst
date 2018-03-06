@@ -1,7 +1,7 @@
-Spikes - 2008
+Spikes - 2018
 ##########################
 :date: 2018-03-04 21:30
-:slug: spikes-2008-1
+:slug: spikes-2018-1
 :tags: 2018, Schwalbe, Spikes, Reifen
 :keywords: 
 
